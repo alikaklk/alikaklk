@@ -1,12 +1,9 @@
-<!-- Banner / Başlık -->
-<h1 align="center">Hi, I'm Ali 👋</h1>
-<p align="center">
-  A <b>frontend developer</b> passionate about web technologies — aspiring to become a <b>full-stack developer</b>.
-</p>
+# Hi, I'm Ali 👋  
+A frontend developer passionate about web technologies, aspiring to become a full-stack developer.  
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 - 🎓 I am currently studying at **Eastern Mediterranean University (EMU)**.  
 - 💼 I have worked on several frontend projects, focusing on modern web technologies.  
@@ -16,6 +13,7 @@
 - 📫 How to reach me:  
    - Email: **ali.kaklk3657@gmail.com**  
    - LinkedIn: [Ali K.](https://www.linkedin.com/in/ali-k-36b73331b)  
+   - Instagram: [debugdays_ali](https://www.instagram.com/debugdays_ali)  
 
 ---
 
