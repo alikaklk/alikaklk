@@ -38,15 +38,13 @@ I am a Software Engineering student at **Eastern Mediterranean University (EMU)*
 ## 📊 GitHub Stats & Trophies  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alikaklk&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikaklk&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alikaklk&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Ali's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikaklk&layout=compact&theme=tokyonight" width="45%" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alikaklk&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alikaklk&theme=onedark&row=1&column=6" width="100%" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ## 🚀 Projects
