@@ -1,74 +1,63 @@
 # Hi, I'm Ali 👋  
 ### 🚀 Full-Stack Web & Mobile Developer 
-I am a Software Engineering student at **Eastern Mediterranean University (EMU)**, passionate about building seamless digital experiences across web and mobile platforms.
+I am a Software Engineering student at **Eastern Mediterranean University (EMU)**, dedicated to building high-quality digital experiences for web and mobile platforms.
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🎓 Currently studying **Software Engineering** at EMU.  
-- 💼 Former Software Engineering Intern at **Kuzey Kıbrıs Turkcell**, focusing on enterprise software workflows.
-- 🚀 Specialized in the **JavaScript** ecosystem: building dynamic web apps with **React.js** and high-performance mobile apps with **React Native**.
-- ⚙️ Also working with **Node.js**, **PostgreSQL**, and **Python** to build solid backend foundations.
-- 💡 Passionate about clean code, UI/UX, and solving complex problems with versatile solutions.
-- 📫 How to reach me:  
-   - 📧 Email: **ali.kaklk3657@gmail.com** - 🔗 LinkedIn: [Ali K.](https://www.linkedin.com/in/ali-k-36b73331b)  
-   - 📸 Instagram: [debugdays_ali](https://www.instagram.com/debugdays_ali)  
+- 🎓 **Education:** Studying Software Engineering at EMU.  
+- 💼 **Experience:** Former Software Engineering Intern at **Kuzey Kıbrıs Turkcell**.
+- 🚀 **Specialization:** Deeply focused on **React.js** and **React Native** development.
+- ⚙️ **Backend:** Building robust server-side solutions with **Node.js**, **Python**, and **PostgreSQL**.
+- 💡 **Passion:** Clean architecture, performance optimization, and sleek UI/UX design.
+- 📫 **Connect:** - 📧 [ali.kaklk3657@gmail.com](mailto:ali.kaklk3657@gmail.com)
+   - 🔗 [LinkedIn](https://www.linkedin.com/in/ali-k-36b73331b)
+   - 📸 [Instagram](https://www.instagram.com/debugdays_ali)
 
 ---
 
-## ⚡ Skills & Technologies  
+## 🛠️ Tech Stack & Tools
 
-### 🌐 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
----
-
-## 🛠️ My Tech Stack & Tools
-
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,nodejs,postgres,py,git,github,vscode,docker,apple" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,nodejs,postgres,py,git,github,vscode,docker,apple&perline=7" />
   </a>
 </p>
 
 ---
 
-## 📈 Activity & Progress
+## 📊 Knowledge Map
 
-| Category | Skills |
+| Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Tailwind CSS, TypeScript |
-| **Mobile** | React Native (iOS & Android) |
-| **Backend** | Node.js, Python, REST APIs |
-| **Database** | PostgreSQL, SQL |
-| **Current Focus** | Full-Stack Development |
+| **Frontend & Web** | React.js, TypeScript, Tailwind CSS, HTML5/CSS3 |
+| **Mobile App** | React Native (iOS & Android) |
+| **Backend & DB** | Node.js, Python, PostgreSQL, REST APIs |
+| **Dev Tools** | Git, GitHub, Docker, VS Code |
+| **Current Focus** | Full-Stack Mastery & Scalable Systems |
 
 ---
 
-## 📊 Quick Links
+## 📊 Progress & Links
 <p align="left">
-<a href="https://www.linkedin.com/in/ali-k-36b73331b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ali.kaklk3657@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ali-k-36b73331b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ali.kaklk3657@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 ## 🚀 Projects
 🚧 I'm currently working on some exciting Full-Stack and Mobile projects. Stay tuned or check my repositories!
 
 ---
 
-## 🎉 Thanks for Visiting!  
+## 🎉 Thanks for Visiting!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=alikaklk&style=for-the-badge)  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+Native+Enthusiast;Always+Building;Always+Learning)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alikaklk&style=for-the-badge&color=blue" alt="Visitor Count" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+Native+Enthusiast;Always+Building;Always+Learning" alt="Typing SVG" />
+</p>
